@@ -8,18 +8,11 @@ categories:
 Follow [here](https://www.nczonline.net/blog/2012/07/05/ios-has-a-hover-problem/).
 
 <style>
-a:hover {
-    color: red;
-}
-</style>
-<p><a href="/">Test me</a></p>
-
-<style>
 p:hover a {
     color: red;
 }
 </style>
-<p><a>Test me</a></p>
+<p><a href="#">Test me</a></p>
 
 <style>
     p span {
