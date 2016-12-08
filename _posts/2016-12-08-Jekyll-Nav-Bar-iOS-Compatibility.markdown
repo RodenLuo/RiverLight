@@ -5,7 +5,7 @@ date:   2016-12-08
 categories: 
 ---
 
-To check the context of this post, see [this thread](https://github.com/jekyll/minima/issues/80) on GitHub.
+To check the context of this post, see [this thread](https://github.com/jekyll/minima/issues/80){:target="_blank"} on GitHub.
 
 Follow [here](https://www.nczonline.net/blog/2012/07/05/ios-has-a-hover-problem/){:target="_blank"}.
 
