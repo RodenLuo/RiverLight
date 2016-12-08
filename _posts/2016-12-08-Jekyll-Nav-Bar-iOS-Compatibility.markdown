@@ -19,30 +19,5 @@ p:hover a {
     color: red;
 }
 </style>
-<p><p>Test me</p></p>
-
-
-<style>
-    p span {
-        display: none;
-    }
-
-    p:hover span {
-        display: inline;
-    }
-</style>
-<p><a href="/">Tap me</a><span>You tapped!</span></p>
-
-
-<style>
-    p span {
-        display: none;
-    }
-
-    .no-touch p:hover span {
-        display: inline;
-    }
-</style>
-<p><a href="/">Tap me</a><span>You tapped!</span></p>
-
+<p><a>Test me</a></p>
 
