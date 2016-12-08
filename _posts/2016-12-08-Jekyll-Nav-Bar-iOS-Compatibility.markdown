@@ -13,3 +13,10 @@ a:hover {
 }
 </style>
 <p><a href="/">Test me</a></p>
+
+<style>
+p:hover a {
+    color: red;
+}
+</style>
+<p><a href="/">Test me</a></p>
