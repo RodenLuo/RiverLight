@@ -21,3 +21,13 @@ p:hover a {
 </style>
 <p><a>Test me</a></p>
 
+<style>
+    p span {
+        display: none;
+    }
+
+    p:hover span {
+        display: inline;
+    }
+</style>
+<p><a href="/">Tap me</a><span>You tapped!</span></p>
