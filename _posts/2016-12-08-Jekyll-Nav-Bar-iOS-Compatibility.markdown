@@ -32,3 +32,17 @@ p:hover a {
     }
 </style>
 <p><a href="/">Tap me</a><span>You tapped!</span></p>
+
+
+<style>
+    p span {
+        display: none;
+    }
+
+    .no-touch p:hover span {
+        display: inline;
+    }
+</style>
+<p><a href="/">Tap me</a><span>You tapped!</span></p>
+
+
