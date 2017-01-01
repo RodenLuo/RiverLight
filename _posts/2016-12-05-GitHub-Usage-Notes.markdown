@@ -2,7 +2,6 @@
 layout: post
 title:  "GitHub Usage Notes"
 date:   2016-12-05 17:28:28 -0800
-comments: false
 categories: 
 ---
 
