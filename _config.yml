@@ -26,7 +26,8 @@ github_username: RodenLuo
 google_analytics: UA-73404250-4
 
 # Disqus comment
-disqus.shortname: riverlight
+disqus:
+  shortname: riverlight
 
 # Build settings
 markdown: kramdown
