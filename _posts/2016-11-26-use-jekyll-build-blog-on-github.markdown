@@ -2,6 +2,7 @@
 layout: post
 title:  "Use jekyll to build blog on GitHub"
 date:   2016-11-26 11:28:28 -0800
+comments: true
 categories: 
 ---
 Follow [tutorial on programminghistorian][tutorial-on-programminghistorian]. 

@@ -25,6 +25,9 @@ github_username: RodenLuo
 # Tracking settings
 google_analytics: UA-73404250-4
 
+# Disqus comment
+disqus.shortname: riverlight
+
 # Build settings
 markdown: kramdown
 theme: minima
