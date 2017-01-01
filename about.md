@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Blog.
+A blog to share information.
 
 #### Thanks to:
 You!
