@@ -30,3 +30,5 @@ p:hover a {
 <br>
 Solution to the original problem.
 Add attribute `onclick = "void(0)"` to `span` and also `header` elements. See [Apple Doc](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html){:target="_blank"} for more.
+
+The issue has been solved by this [commit](https://github.com/jekyll/minima/commit/cdbde06651a45e9c4bd1caf439295657d7ec7f9a).
