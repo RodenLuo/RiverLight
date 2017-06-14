@@ -38,3 +38,10 @@ Commit:
 Push:
 
 `git push`
+
+
+
+#### Adding an existing project to GitHub using command line
+
+Follow [here](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
+
