@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A blog to share information.
+A blog to share notes about Cloud and AI.
 
 #### Thanks to:
 You!
